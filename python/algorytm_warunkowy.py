@@ -3,14 +3,16 @@
 
 
 def main(args):
-    
-# a = 10
+   # a = 10
    a = int(input("Podaj liczbę: "))
    # b = 5
    b = int(input("Podaj liczbę: "))
-    suma = a + b
-    print(a + b)
-    return 0
+   
+   if a > b:
+       print (a)
+   else:
+       print(b) 
+          
 
 if __name__ == '__main__':
     import sys

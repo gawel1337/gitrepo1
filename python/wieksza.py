@@ -3,8 +3,7 @@
 
 
 def main(args):
-    
-# a = 10
+   # a = 10
    a = int(input("Podaj liczbę: "))
    # b = 5
    b = int(input("Podaj liczbę: "))
