@@ -22,3 +22,7 @@ git push - wysłanie zmian do repozytorium
 
 **SCHEMAT BLOKOWE**
 
+PĘTLE
+
+
+zmienna iteracyjna  

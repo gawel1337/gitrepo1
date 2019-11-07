@@ -9,9 +9,11 @@ def main(args):
    b = int(input("Podaj liczbę: "))
    
    if a > b:
-       print (a)
+       print ("a > b")
+   elif a < b:
+       print("a < b")
    else:
-       print(b) 
+       print("a = b") 
           
 
 if __name__ == '__main__':
