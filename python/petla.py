@@ -13,8 +13,7 @@ def sumuj_parzyste(start, stop):
 def drukuj_nieparzyste(start, stop):
      if start % (2 == 0) :
         start = start + 1
-    for i in range(start, stop+1):
-        print(i)
+    for i in range(start, stop + 1, 2):
     return 0 
 
 
