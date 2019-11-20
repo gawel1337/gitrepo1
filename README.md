@@ -2,9 +2,9 @@
 
 ## Polecenia gita
 
-git status
-git pull - pobranie zmian z repozytorium zdalnego
-git add . - dodanie zmian do repozytorium
-git commit -m"opis zmian" - zatwierdzenie zmian
-git push - wysyła zmiany go repozytorium
+1)git status
+2)git pull - pobranie zmian z repozytorium zdalnego
+3)git add . - dodanie zmian do repozytorium
+4)git commit -m"opis zmian" - zatwierdzenie zmian
+5)git push - wysyła zmiany go repozytorium    
 
