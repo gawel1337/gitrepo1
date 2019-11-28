@@ -19,10 +19,7 @@ git push - wysłanie zmian do repozytorium
 
 
 1. a = input(), cin>>a
+  
 
-**SCHEMAT BLOKOWE**
-
-PĘTLE
-
-
-zmienna iteracyjna  
+int - integer,  liczba całkowita np. 3 , -90
+float- floating, zmiennoprzecinkowa np. 12,345 
