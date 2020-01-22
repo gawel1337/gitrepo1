@@ -23,3 +23,18 @@ git push - wysłanie zmian do repozytorium
 
 int - integer,  liczba całkowita np. 3 , -90
 float- floating, zmiennoprzecinkowa np. 12,345 
+
+
+
+
+
+zasięg globalny 
+zmienna globalna
+
+zasięg globalny
+zasięg lokalny
+
+void drukuj() {; }
+int sumuj() {return a;}
+int sumuj(int a, int b) {return suma;} //przekazanie przez wartość
+void oblicz(int &liczba) { liczba = 5} // przekazanie przez referencje

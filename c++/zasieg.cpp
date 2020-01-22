@@ -11,7 +11,6 @@ int suma = 0; // zasieg globalny
 void drukuj(int lb){
     cout << suma << endl;
     lb += 7;
-    cout << &liczba << endl;
     cout << lb << endl;
 }
 
@@ -30,7 +29,7 @@ int main(int argc, char **argv)
     cout << suma << endl;
     cout << liczba << endl;
     cout << &liczba << endl;
-    drukuj(liczba); // by value 
+    //drukuj(liczba); // by value 
     drukuj2(liczba); // by reference 
     cout << liczba << endl;
 	return 0;
