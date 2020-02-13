@@ -28,7 +28,7 @@ float liczSrednia(int tb[], int n) {
         suma = suma + tb[i];
     }
     return (float)suma / (float)n;
-}
+}e
 
 void drukuj(int tb[], int n){
     for (int i = 0; i < n; i++){
